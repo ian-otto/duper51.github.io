@@ -4,7 +4,7 @@ description: "The personal blog for Ian Otto"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://duper51.me" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: duper51
+username: Ian Otto
 user_title: Ian Otto
 email: me@duper51.me
 twitter_username: duper51
